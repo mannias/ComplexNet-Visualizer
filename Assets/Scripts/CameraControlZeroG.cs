@@ -46,6 +46,8 @@ public class CameraControlZeroG : MonoBehaviour {
 			move.y = -speed * Time.deltaTime;
 		}
 
+
+
 		//adjust speed with mouse wheel
 		speed += Input.GetAxis("Mouse ScrollWheel");
 		if (speed < 5)
