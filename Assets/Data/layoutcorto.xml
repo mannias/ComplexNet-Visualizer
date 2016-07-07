@@ -1,0 +1,11 @@
+<graphml xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml.html/1.0/ygraphml.xsd" xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:y="http://www.yworks.com/xml/yfiles-common/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:yjs="http://www.yworks.com/xml/yfiles-for-html/1.0/xaml">
+<circle cx="-16.6189" cy="-4.49769" fill="rgb(36,83,179)" r="0.0788108" opacity="1"/>
+<graph id="G" edgedefault="directed">
+<circle cx="-13.437" cy="-2.19637" fill="rgb(61,306,224)" r="0.0788108" opacity="1"/>
+<line x1="21.5083" x2="18.157" y1="-1.4545" y2="-1.22787" stroke="rgb(89,89,0)" stroke-width="0.00994481" opacity="0.2"/>
+<line x1="18.157" x2="14.8058" y1="-1.22787" y2="-1.00124" stroke="rgb(74,18,89)" stroke-width="0.00994481" opacity="0.2"/>
+<line x1="21.4287" x2="21.3517" y1="0.150021" y2="0.181336" stroke="rgb(89,67,6)" stroke-width="0.00994481" opacity="1"/>
+<circle cx="-29.4467" cy="-3.97395" fill="rgb(510,510,510)" r="0.0788108" opacity="1"/>
+<text x="-28.3965" y="-5.02413" font-family="Verdana" font-size="2.10035" fill="rgb(0,0,0)">2</text>
+</graph>
+</graphml>
